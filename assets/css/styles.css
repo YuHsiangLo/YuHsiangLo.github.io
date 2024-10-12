@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {
-  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.5em;
   -ms-text-size-adjust: 100%;
@@ -25,7 +25,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 h1 {
@@ -93,7 +93,7 @@ h1 {
 }
 
 .front-matter h4 {
-  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .front-matter .bylines .byline {
@@ -103,7 +103,7 @@ h1 {
 
 .front-matter .bylines .byline h3, .front-matter .bylines .byline p {
   margin: 0;
-  font-family: -apple-system, Helvetica, arial, sans-serif;
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .front-matter .bylines .byline h3 {
