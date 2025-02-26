@@ -1,0 +1,68 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox="-250 -25 1000 275" width="1000">
+    <g style="stroke-width: 2px;">
+        <line x1="25" y1="75" x2="89" y2="75" stroke="white" />
+        <polygon points="89,75 64,65 64,85" fill="white" />
+
+        <line x1="286" y1="75" x2="350" y2="75" stroke="white" />
+        <polygon points="286,75 311,65 311,85" fill="white" />
+
+        <g class="v-slow" style="stroke: #E69F00; fill: #E69F00;">
+            <line x1="91" y1="75" x2="284" y2="75" />
+            <polygon points="91,75 116,65 116,85" />
+            <polygon points="284,75 259,65 259,85" />
+        </g>
+    </g>
+
+    <g style="stroke-width: 2px;">
+        <line x1="400" y1="75" x2="480.25" y2="75" stroke="white" />
+        <polygon points="480.25,75 455.25,65 455.25,85" fill="white" />
+
+        <line x1="644.75" y1="75" x2="725" y2="75" stroke="white" />
+        <polygon points="644.75,75 669.75,65 669.75,85" fill="white" />
+
+        <g class="c-slow" style="stroke: #56B4E9; fill: #56B4E9;">
+            <line x1="482.25" y1="75" x2="642.75" y2="75" />
+            <polygon points="482.25,75 507.25,65 507.25,85" />
+            <polygon points="642.75,75 617.75,65 617.75,85" />
+        </g>
+    </g>
+
+
+    <g style="stroke-width: 2px;">
+        <line x1="25" y1="150" x2="154" y2="150" stroke="white" />
+        <polygon points="154,150 129,140 129,160" fill="white" />
+
+        <g style="stroke: #E69F00; fill: #E69F00;">
+            <line x1="156" y1="150" x2="219" y2="150" />
+            <polygon points="156,150 181,140 181,160" />
+            <polygon points="219,150 194,140 194,160" />
+        </g>
+
+        <line x1="221" y1="150" x2="350" y2="150" stroke="white" />
+        <polygon points="221,150 246,140 246,160" fill="white" />
+    </g>
+
+    <g style="stroke-width: 2px;">
+        <line x1="400" y1="150" x2="507.33" y2="150" stroke="white" />
+        <polygon points="507.33,150 482.33,140 482.33,160" fill="white" />
+
+        <g style="stroke: #56B4E9; fill: #56B4E9;">
+            <line x1="509.33" y1="150" x2="615.66" y2="150" />
+            <polygon points="509.33,150 534.33,140 534.33,160" />
+            <polygon points="615.66,150 590.66,140 590.66,160" />
+        </g>
+
+        <line x1="617.66" y1="150" x2="725" y2="150" stroke="white" />
+        <polygon points="617.66,150 642.66,140 642.66,160" fill="white" />
+    </g>
+
+    <text x="187.5" y="0" text-anchor="middle" alignment-baseline="middle" fill="#E69F00">V</text>
+    <text x="562.5" y="0" text-anchor="middle" alignment-baseline="middle" fill="#56B4E9">C</text>
+
+    <text id="stretchier" x="187.5" y="225" text-anchor="middle" alignment-baseline="middle" fill="#E69F00">"stretchier"</text>
+    <text id="less-stretchy" x="562.5" y="225" text-anchor="middle" alignment-baseline="middle" fill="#56B4E9">"less stretchy"</text>
+
+    <text x="0" y="75" text-anchor="end" alignment-baseline="middle" fill="white">slow speech</text>
+    <text x="0" y="150" text-anchor="end" alignment-baseline="middle" fill="white">fast speech</text>
+
+</svg>
